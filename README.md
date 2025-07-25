@@ -1,3 +1,9 @@
-# test
+# un diagramme
 
-peut on supprimmer une branche et qu'elle disparaisse de git
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
